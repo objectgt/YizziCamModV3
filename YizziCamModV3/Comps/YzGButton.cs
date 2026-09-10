@@ -39,10 +39,6 @@ namespace YizziCamModV3.Comps
                         break;
                     case "SmoothingDownButton":
                         CameraController.Instance.smoothing -= 0.01f;
-                        if (CameraController.Instance.smoothing < 0.05f)
-                        {
-                            CameraController.Instance.smoothing = 0.11f;
-                        }
                         CameraController.Instance.SmoothText.text = CameraController.Instance.smoothing.ToString();
                         CameraController.Instance.canbeused = true;
                         break;
