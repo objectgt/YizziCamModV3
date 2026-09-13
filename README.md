@@ -24,7 +24,7 @@ Camera Mod with in game UI!
 * WASD/arrow keys for freecam(also a toggle for gamepad)
  
 # *Disclamers:*
-* **This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2025 Another Axiom LLC.**
+* **This product is not affiliated with Gorilla Tag or Another Axiom Inc and is not endorsed or otherwise sponsored by Another Axiom Inc. Portions of the materials contained herein are property of Another Axiom Inc. ©2026 Another Axiom Inc.**
 
 * **controls can be different depending what you're playing on(steamvr,oculuspcvr,index, etc.)**
 
