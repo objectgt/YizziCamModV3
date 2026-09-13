@@ -28,4 +28,4 @@ Camera Mod with in game UI!
 
 * **controls can be different depending what you're playing on(steamvr,oculuspcvr,index, etc.)**
 
-* **if you find any bugs dm .obj_ on discord**
+* **if you find any bugs dm .obj_ on Discord**
